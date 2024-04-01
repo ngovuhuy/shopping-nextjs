@@ -28,7 +28,7 @@ const Slide:React.FC<propsType> = ({img,title,mainTitle,price}) => {
 
 <Image
   className=" w-[80%] h-[300px] md:h-auto rounded-xl object-cover object-right md:object-left-bottom  "
-  src={img} // Make sure 'img' contains the correct path or URL to the image
+  src={img} 
   alt="banner"
   width={2000}
   height={0}
