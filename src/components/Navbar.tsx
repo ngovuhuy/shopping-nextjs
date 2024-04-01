@@ -29,30 +29,7 @@ const Navbar = () => {
             <Link className="navbar__link relative" href="#">
             HOT OFFERS
             </Link>
-            {/* <a className="navbar__link relative" href="#">
-                Home
-            </a>
-            <a className="navbar__link relative" href="#">
-                CATEGORIES
-            </a>
-            <a className="navbar__link relative" href="#">
-                MEN'S
-            </a>
-            <a className="navbar__link relative" href="#">
-                WOMEM'S
-            </a>
-            <a className="navbar__link relative" href="#">
-                JEWELRY
-            </a>
-            <a className="navbar__link relative" href="#">
-                PERFUME
-            </a>
-            <a className="navbar__link relative" href="#">
-                BLOG
-            </a>
-            <a className="navbar__link relative" href="#">
-                HOT OFFERS
-            </a> */}
+    
           </div>
    </div>
     </div>
